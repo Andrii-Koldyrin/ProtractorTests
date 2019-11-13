@@ -1,0 +1,15 @@
+{
+  "name": "Protractor",
+  "version": "1.0.0",
+  "dependencies": {
+    "as": "^0.4.1",
+    "chai-as-promised": "latest",
+    "promised": "^0.2.2",
+    "protractor": "^5.4.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+
+  }
+}
